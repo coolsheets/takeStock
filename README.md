@@ -36,3 +36,7 @@ Replace YOUR_API_KEY in routes/stock.js with your actual Alpha Vantage API key.
 Install the dependencies by running npm install.
 Start the server by running npm start.
 Now, navigate to http://localhost:3000 in your browser, enter a stock symbol, and see the latest stock price information.
+
+### The Alpha Academy
+Linked below is a growing list of educational content developed by industry experts in quantitative investing, machine learning, software development, blockchain technologies, and more.
+https://www.alphavantage.co/academy/
